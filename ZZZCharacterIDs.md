@@ -29,6 +29,8 @@
 | 1261 | Jane | JaneDoe|
 | 1271| Seth | Seth |
 | 1281 | Piper | Piper, Clara |
+| 1311 | Astra Yao | AstraYao |
+| 1321 | Evelyn | Evelyn |
 | 1351 | Pulchra | Pulchra
 | 2011 | Wise | Wise |
 | 2021 | Belle | Belle |
