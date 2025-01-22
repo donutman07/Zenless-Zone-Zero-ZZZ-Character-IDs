@@ -33,6 +33,6 @@
 | 1311 | Astra Yao | Astra |
 | 1321 | Evelyn | Evelyn |
 | 1331| Vivian | Vivian |
-| 1351 | Pulchra | Pulchra
+| 1351 | Pulchra | Pulchra | 
 | 2011 | Wise | Wise |
 | 2021 | Belle | Belle |
