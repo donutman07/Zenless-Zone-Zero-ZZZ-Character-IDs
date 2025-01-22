@@ -29,8 +29,10 @@
 | 1261 | Jane | JaneDoe|
 | 1271| Seth | Seth |
 | 1281 | Piper | Piper, Clara |
+| 1291 | Hugo Vlad | HugoVlad |
 | 1311 | Astra Yao | Astra |
 | 1321 | Evelyn | Evelyn |
+| 1331| Vivian | Vivian |
 | 1351 | Pulchra | Pulchra
 | 2011 | Wise | Wise |
 | 2021 | Belle | Belle |
