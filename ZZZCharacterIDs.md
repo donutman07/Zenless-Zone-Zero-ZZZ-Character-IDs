@@ -34,5 +34,7 @@
 | 1321 | Evelyn | Evelyn |
 | 1331| Vivian | Vivian |
 | 1351 | Pulchra | Pulchra | 
+| 1361 | Trigger | Trigger |
+| 1381 | SS - Anby | SilverAnby|
 | 2011 | Wise | Wise |
 | 2021 | Belle | Belle |
