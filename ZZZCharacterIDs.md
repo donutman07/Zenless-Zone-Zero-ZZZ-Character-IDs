@@ -35,6 +35,8 @@
 | 1331| Vivian | Vivian |
 | 1351 | Pulchra | Pulchra | 
 | 1361 | Trigger | Trigger |
+| 1371 | Yi Xuan | YiXuan |
 | 1381 | SS - Anby | SilverAnby|
+| 1391 | Ju Fufu | Jufufu |
 | 2011 | Wise | Wise |
 | 2021 | Belle | Belle |
