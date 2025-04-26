@@ -38,5 +38,6 @@
 | 1371 | Yi Xuan | YiXuan |
 | 1381 | SS - Anby | SilverAnby|
 | 1391 | Ju Fufu | Jufufu |
+| 1421 | Pan Yinhu | PanYinhu |
 | 2011 | Wise | Wise |
 | 2021 | Belle | Belle |
