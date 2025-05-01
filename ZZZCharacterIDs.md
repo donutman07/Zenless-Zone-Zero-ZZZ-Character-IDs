@@ -24,7 +24,7 @@
 | 1201 | Harumasa | Harumasa |
 | 1211 | Rina | Rina |
 | 1221 | Yanagi | Yanagi |
-| 1231 | Rokudou Suriel | RokudouSuriel |
+| 1231 | Rokudou Sariel | RokudouSuriel |
 | 1241 | Zhu Yuan | ZhuYuan |
 | 1251 | Qingyi | QingYi|
 | 1261 | Jane | JaneDoe|
