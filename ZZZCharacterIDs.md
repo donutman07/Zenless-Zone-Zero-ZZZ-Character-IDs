@@ -24,6 +24,7 @@
 | 1201 | Harumasa | Harumasa |
 | 1211 | Rina | Rina |
 | 1221 | Yanagi | Yanagi |
+| 1231 | Rokudou Suriel | RokudouSuriel |
 | 1241 | Zhu Yuan | ZhuYuan |
 | 1251 | Qingyi | QingYi|
 | 1261 | Jane | JaneDoe|
@@ -37,7 +38,7 @@
 | 1351 | Pulchra | Pulchra | 
 | 1361 | Trigger | Trigger |
 | 1371 | Yi Xuan | YiXuan |
-| 1381 | SS - Anby | SilverAnby|
+| 1381 | SS - Anby | SilverAnby |
 | 1391 | Ju Fufu | Jufufu |
 | 1401 | Alice | Alice |
 | 1421 | Pan Yinhu | PanYinhu |
