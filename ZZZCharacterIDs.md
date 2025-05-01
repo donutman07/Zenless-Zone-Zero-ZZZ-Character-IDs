@@ -30,6 +30,7 @@
 | 1271 | Seth | Seth |
 | 1281 | Piper | Piper, Clara |
 | 1291 | Hugo Vlad | HugoVlad |
+| 1301 | Magus | Magus, Brujas |
 | 1311 | Astra Yao | Astra |
 | 1321 | Evelyn | Evelyn |
 | 1331 | Vivian | Vivian |
