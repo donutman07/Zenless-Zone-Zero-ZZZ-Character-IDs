@@ -41,6 +41,8 @@
 | 1381 | SS - Anby | SilverAnby |
 | 1391 | Ju Fufu | Jufufu |
 | 1401 | Alice | Alice |
+| 1411 | Yuzuha | Yuzuha
 | 1421 | Pan Yinhu | PanYinhu |
+| 1441 | Komano Manato | Norano |
 | 2011 | Wise | Wise |
 | 2021 | Belle | Belle |
