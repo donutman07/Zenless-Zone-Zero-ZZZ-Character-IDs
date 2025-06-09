@@ -40,7 +40,7 @@
 | 1371 | Yi Xuan | YiXuan |
 | 1381 | SS - Anby | SilverAnby |
 | 1391 | Ju Fufu | Jufufu |
-| 1401 | Alice | Alice |
+| 1401 | Alice | Alice, Ailice |
 | 1411 | Yuzuha | Yuzuha
 | 1421 | Pan Yinhu | PanYinhu |
 | 1441 | Komano Manato | Norano |
