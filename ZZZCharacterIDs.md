@@ -48,6 +48,6 @@
 | 1441 | Komano Manato | Norano |
 | 1451 | Lucia | Lucia |
 | 1461 | Seed | Seed |
-| 1471 | Ban Yue | BanYue |
+| 1471 | Banyue | BanYue |
 | 2011 | Wise | Wise |
 | 2021 | Belle | Belle |
