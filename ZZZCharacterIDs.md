@@ -6,7 +6,8 @@
 | 1021 | Nekomata | Tsubaki, Mana |
 | 1031 | Nicole | Nostradamus |
 | 1041 | Soldier 11 | Longinus |
-| 1051 | Lucia | Lucia |
+| 1051 | Yidhari | Yidhari |
+| 1051 | Lucia (Old) | Lucia |
 | 1061 | Corin | Corin, Coline |
 | 1071 | Caesar | Caesar |
 | 1081 | Billy | Billy |
@@ -44,5 +45,8 @@
 | 1411 | Yuzuha | Yuzuha
 | 1421 | Pan Yinhu | PanYinhu |
 | 1441 | Komano Manato | Norano |
+| 1451 | Lucia | Lucia |
+| 1461 | Seed | Seed |
+| 1471 | Ban Yue | BanYue |
 | 2011 | Wise | Wise |
 | 2021 | Belle | Belle |
