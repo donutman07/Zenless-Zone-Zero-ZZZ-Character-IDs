@@ -44,6 +44,7 @@
 | 1401 | Alice | Alice, Ailice |
 | 1411 | Yuzuha | Yuzuha
 | 1421 | Pan Yinhu | PanYinhu |
+| 1431 | Zhao | XiaoZhao |
 | 1441 | Komano Manato | Norano |
 | 1451 | Lucia | Lucia |
 | 1461 | Seed | Seed |
