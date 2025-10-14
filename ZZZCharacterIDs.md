@@ -36,6 +36,7 @@
 | 1311 | Astra Yao | Astra |
 | 1321 | Evelyn | Evelyn |
 | 1331 | Vivian | Vivian |
+| 1341 | Zhao | XiaoZhao |
 | 1351 | Pulchra | Pulchra | 
 | 1361 | Trigger | Trigger |
 | 1371 | Yi Xuan | YiXuan |
@@ -44,10 +45,12 @@
 | 1401 | Alice | Alice, Ailice |
 | 1411 | Yuzuha | Yuzuha
 | 1421 | Pan Yinhu | PanYinhu |
-| 1431 | Zhao | XiaoZhao |
+| 1431 | Ye Shunguang | Zhenzhen, ZhenzhenGal |
 | 1441 | Komano Manato | Norano |
 | 1451 | Lucia | Lucia |
 | 1461 | Seed | Seed |
 | 1471 | Banyue | BanYue |
+| 1481 | Dialyn | Azural |
+| 1491 | Chinatsu Remiel | Angel02, Summer |
 | 2011 | Wise | Wise |
 | 2021 | Belle | Belle |
