@@ -51,6 +51,15 @@
 | 1461 | Seed | Seed |
 | 1471 | Banyue | BanYue |
 | 1481 | Dialyn | Azural |
-| 1491 | Chinatsu Remiel | Angel02, Summer |
+| 1491 | Sunna | Angel02, Summer, Chinatsu |
+| 1501 | Aria | Aria |
+| 1511 | Nangong Yu | NangongYu |
+| 1521 | Cissia | Cissia |
+| 1531 | ??? | |
+| 1541 | Promeia | Promeia |
+| 1551 | ??? | |
+| 1561 | Velina | |
+| 1571 | Norma | |
+| 1581 | Remielle | | 
 | 2011 | Wise | Wise |
 | 2021 | Belle | Belle |
