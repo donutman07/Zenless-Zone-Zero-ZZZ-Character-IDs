@@ -52,14 +52,14 @@
 | 1471 | Banyue | BanYue |
 | 1481 | Dialyn | Azural |
 | 1491 | Sunna | Angel02, Summer, Chinatsu |
-| 1501 | Aria | Aria |
+| 1501 | Aria | Aria, UtaneYofiel, AriaRobot |
 | 1511 | Nangong Yu | NangongYu |
 | 1521 | Cissia | Cissia |
-| 1531 | ??? | |
+| 1531 | Billy SP | SpBilly |
 | 1541 | Promeia | Promeia |
 | 1551 | ??? | |
-| 1561 | Velina | |
-| 1571 | Norma | |
+| 1561 | Velina | Velina |
+| 1571 | Norma | Norma |
 | 1581 | Remielle | | 
 | 2011 | Wise | Wise |
 | 2021 | Belle | Belle |
