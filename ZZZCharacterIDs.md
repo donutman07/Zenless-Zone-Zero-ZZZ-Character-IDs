@@ -57,7 +57,7 @@
 | 1521 | Cissia | Cissia |
 | 1531 | Billy SP | SpBilly |
 | 1541 | Promeia | Promeia |
-| 1551 | ??? | |
+| 1551 | Pyrois | Pyrois |
 | 1561 | Velina | Velina |
 | 1571 | Norma | Norma |
 | 1581 | Remielle | | 
